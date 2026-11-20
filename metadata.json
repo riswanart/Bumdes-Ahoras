@@ -1,0 +1,6 @@
+{
+  "name": "SI-AKUN BUMDes",
+  "description": "Sistem Informasi Akuntansi dan Keuangan BUMDes sesuai Kepmendesa PDTT No. 136 Tahun 2022 dan SAK EMKM, dilengkapi modul manajemen stok dan penjualan kios pupuk bersubsidi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
